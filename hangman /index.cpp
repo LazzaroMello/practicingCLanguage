@@ -3,6 +3,7 @@
 using namespace std;
 
 //Jogo feito APENAS com conceitos BASICOS da linguagem
+//game using only basics concepts of the language
 
 int main(){
 
