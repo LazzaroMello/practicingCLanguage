@@ -3,6 +3,11 @@
 #include <iostream>
 #define P 2
 
+/*
+    Crie uma matriz com 4 linhas e 5 colunas, que tenha números diferentes entre si, lidos pelo usuário.
+    Depois, ordene as 2 primeiras linhas de forma crescente e as 2
+    últimas linhas em ordem decrescente. Imprima a matriz antes e depois da ordenação.
+*/
 int main(){
    int mat[4][5];
    int i,j;
